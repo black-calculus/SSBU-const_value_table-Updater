@@ -3,7 +3,9 @@ Updates the const_value_table.h (https://github.com/ultimate-research/code-mod-f
 
 This will allow you to update your const_value_table.h file by supplying the filename of your const_value_tableXYZ.txt file, e.g. const_value_table700.txt and the filename of your const value table header file (e.g. const_value_table.h).
 
-An example const_value_tableXYZ file is included (const_value_table700.txt).
+An example const_value_tableXYZ.txt file is included (const_value_table700.txt).
+
+
 
  ~ USAGE ~
 
